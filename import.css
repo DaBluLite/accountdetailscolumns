@@ -43,3 +43,7 @@
     bottom: 10px;
     position: absolute;
 }
+.avatar-3mTjvZ ~ button {
+    margin-right: 15px;
+    border-radius: 8px;
+}
