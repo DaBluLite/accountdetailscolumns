@@ -36,3 +36,10 @@
 .field-21XZwa .fieldButton-14lHvK:hover > div {
     background-image: none !important;
 }
+.field-21XZwa .fieldButton-14lHvK:nth-child(1) {
+    right: 5px;
+}
+.field-21XZwa .fieldButton-14lHvK {
+    bottom: 10px;
+    position: absolute;
+}
