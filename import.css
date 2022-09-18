@@ -4,11 +4,11 @@
 .fieldList-in8WkP {
     background-color: transparent;
 }
-.field-21XZwa:first-child {
-    margin-left: 10px;
+.field-21XZwa:last-child {
+    margin-right: 0 !important;
 }
 .field-21XZwa {
-    width: calc((100%/3) - 16px);
+    width: calc((100%/3) - ((20/3) * 1px));
     border-radius: 8px;
     background-color: var(--background-primary);
     height: 108px;
